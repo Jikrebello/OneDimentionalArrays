@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimentionalArrays\bin\Debug\OneDimentionalArrays.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimentionalArrays\bin\Debug\OneDimentionalArrays.exe
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimentionalArrays\bin\Debug\OneDimentionalArrays.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimentionalArrays\obj\Debug\OneDimentionalArrays.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimentionalArrays\obj\Debug\OneDimentionalArrays.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimentionalArrays\obj\Debug\OneDimentionalArrays.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimentionalArrays\obj\Debug\OneDimentionalArrays.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimentionalArrays\obj\Debug\OneDimentionalArrays.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimentionalArrays\obj\Debug\OneDimentionalArrays.exe
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimentionalArrays\obj\Debug\OneDimentionalArrays.pdb
